@@ -1,3 +1,3 @@
-# Github and git conflict
+# Github and git
 Austin Billinghurst
 ht9030
